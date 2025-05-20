@@ -1,7 +1,11 @@
 Project Name: Pizza Sales Report
+
 Tools Used: Power BI, MySQL
+
 Domain: Marketing Domain
+
 Project based on: Sales Performance, Best and worst seller
+
 
 Project Details
 
